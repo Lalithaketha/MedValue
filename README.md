@@ -1,2 +1,2 @@
 # MedValue
-This is a website.
+This is a website that provides medicinal values in various kinds of food.
